@@ -6,15 +6,15 @@ Ext.application({
            tabBarPosition:'bottom',
            items:[
                {
-                   title:'retencion iva',
-                   iconCls:'ingresa daros',
+                  xtype:'retencion iva',
+                   label:'ingresa daros',
                    items:[
                       panelInicio
                    ]
                },
                {
-                   title:'isr',
-                   iconCls:'ingresa datos',
+                   xtype:'isr',
+                   label:'ingresa datos',
                    items:[
                        
                    ]
